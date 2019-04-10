@@ -18,8 +18,7 @@ The implementation of dynamic routing refers to the [[code]](https://github.com/
 
 1. We provide the preprocessing program to generate specific experimental data format. The default raw data format should be `.gexf`. Each line of the label file represents a graph with the format <br/>
 
-
-    xxx.gexf label
+    `xxx.gexf label`
 
 To generate experimental data format:
 
@@ -30,7 +29,8 @@ To generate experimental data format:
 1. All the hyperparameters can be set in `config.py` and the training procedure can be executed through: 
 
 
-    $ python3 main.py --dataset_dir data_plk/ENZYMES --epochs 3000 --lambda_val 0.5
+    `$ python3 main.py --dataset_dir data_plk/ENZYMES --epochs 3000 --lambda_val 0.5`
+
 
 ### Citing
 If you find *CapsGNN* is useful for your research, please consider citing the following paper:
