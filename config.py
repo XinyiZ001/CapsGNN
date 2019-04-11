@@ -17,7 +17,7 @@ def settings():
 
     parser.add_argument('-graph_emb_size', "--graph_embedding_size", default=8, type=int,help="Intended graph embedding size to be learnt")
 
-    parser.add_argument("--learning_rate", default=0.01, type=float,help="Learning rate to optimize the loss function")
+    parser.add_argument("--learning_rate", default=0.001, type=float,help="Learning rate to optimize the loss function")
 
     parser.add_argument("--decay_step", default=20000, type=float,help="Learning rate decay step")
 
