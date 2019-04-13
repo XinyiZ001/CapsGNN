@@ -16,9 +16,9 @@ The implementation of dynamic routing refers to the [[code]](https://github.com/
 
 #### Data Preparation
 
-1. We provide the preprocessing program to generate specific experimental data format. The default raw data format should be `.gexf`. Each line of the label file represents a graph with the format <br/>
+1. We provide the preprocessing program to generate specific experimental data format. The default raw data format should be `.gexf` (avalaible at [[gexf Dataset]](https://drive.google.com/drive/folders/1qXx-OZlJtgRYn579aQX13ou2hutqJz41?usp=sharing)). Each line of the label file represents a graph with the format <br/>
 ```
-    xxx.gexf label`
+    xxx.gexf label
 ```
 To generate experimental data format:
 
