@@ -1,6 +1,6 @@
 # CapsGNN
 
-This repository contains a TensorFlow implementation of Capsule Graph Neural Network ([CapsGNN](https://openreview.net/forum?id=Byl8BnRcYm)).
+This repository contains an official TensorFlow implementation of Capsule Graph Neural Network ([CapsGNN](https://openreview.net/forum?id=Byl8BnRcYm)).
 
 The implementation of dynamic routing refers to the [[code]](https://github.com/naturomics/CapsNet-Tensorflow)
 
