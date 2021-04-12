@@ -1,4 +1,5 @@
 # CapsGNN
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 This repository contains an official TensorFlow implementation of Capsule Graph Neural Network ([CapsGNN](https://openreview.net/forum?id=Byl8BnRcYm)).
 
